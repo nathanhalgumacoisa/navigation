@@ -1,5 +1,5 @@
 import React from 'react'
-import { View } from 'react-native-web'
+import { View } from 'react-native'
 
 function Profile() {
   return (
@@ -9,4 +9,3 @@ function Profile() {
   )
 }
 
-export default Profile
